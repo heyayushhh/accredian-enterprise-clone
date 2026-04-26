@@ -128,5 +128,5 @@ Check out the live version of the project here:
 
 ---
 
-**Developed with ❤️ by [Your Name]**  
+**Developed with ❤️ by AYUSH SINGH**  
 *Full Stack Developer Intern @ Accredian Assignment*
